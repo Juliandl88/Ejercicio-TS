@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "name": "exercise1-ts",
+  "version": "1.0.0",
+  "description": "Practica 1 TS",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juliandl88/Ejercicio-TS.git"
+  },
+  "author": "Julian DL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juliandl88/Ejercicio-TS/issues"
+  },
+  "homepage": "https://github.com/Juliandl88/Ejercicio-TS#readme"
+}
