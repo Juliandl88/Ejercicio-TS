@@ -11,9 +11,5 @@ console.log(message);
 
 
 let message2: string = "Hola Mundo!!";
+console.log(message2);
 
-let message3: string = "Hello World";
-console.log(message);
-
-
-let message3: string = "Hola Mundo!!";
